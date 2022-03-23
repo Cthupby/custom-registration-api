@@ -1,6 +1,7 @@
 # Custom registration api  
 
-Custom registration application made with [Django REST framework](https://www.django-rest-framework.org/)
+Custom registration application made with  
+[Django REST framework](https://www.django-rest-framework.org/) | [Django-rest-auth](https://django-rest-auth.readthedocs.io/en/latest/index.html) | [Django-allauth](https://django-allauth.readthedocs.io/en/latest/index.html)
 
 ## Installation
 1. Download the custom-registration-api
