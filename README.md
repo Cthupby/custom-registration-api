@@ -20,17 +20,24 @@ For using custom-registration-api enter
 
 When registering, the user can specify information about himself, which is collected in a dictionary Json-file:  
 
+### Before  
 
-```
-{
-    "username": "",
-    "email": "",
-    "password1": "",
-    "password2": "",
-    "avatar": null,
-    "gender": null,
-    "first_name": "",
-    "last_name": ""
-}
-```
+| **Username:** | __________ |
+| :------: | ------ |
+| **Email:** | __________ |
+| **Password1:** | __________ |
+| **Password2:** | __________ |
+
+### After  
+
+| **Username:** | __________ |
+| :------: | ------ |
+| **Email:** | __________ |
+| **Password1:** | __________ |
+| **Password2:** | __________ |
+| **Avatar:** | __________ |
+| **Gender:** | __________ |
+| **First_name:** | __________ |
+| **Last_name:** | __________ |
+| **Add_new_point:** | __________ |
 
